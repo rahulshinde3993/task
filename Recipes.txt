@@ -8,5 +8,7 @@ lollipop
 pizza
 chicken 65
 
+beans
+pasta
 
 thank you
